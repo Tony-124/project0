@@ -1,0 +1,9 @@
+body {
+  background-image: url("Background1.jpg");
+  background-size:100% 100% ;
+}
+h1 {
+  padding: 20%;
+  text-align: center;
+  color: blue;
+}
