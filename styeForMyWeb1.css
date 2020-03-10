@@ -1,0 +1,31 @@
+table {
+  text-align: center;
+  margin: 0px 34%;
+  border: 7px solid green;
+  border-collapse: collapse;
+  background-color: grey;
+}
+td, tr , th {
+  border: 3px solid green;
+}
+tr:hover {
+  background-color: #F5F508;
+}
+p {
+  text-align: center;
+  color: teal;
+  font-size: 30px;
+}
+h1 {
+  color: blue;
+  font-size: 50px;
+  text-align: center;
+}
+.challenge {
+  text-align: center;
+  font-size: 20px;
+}
+.challenge:hover {
+  color: purple;
+  background-color: orange;
+}

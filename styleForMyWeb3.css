@@ -1,0 +1,15 @@
+table {
+  border: 7px solid #031AAD;
+  border-collapse: collapse;
+  margin: 0px 34%;
+}
+th, td {
+  border: 3px solid #031AAD;
+}
+ol {
+  margin: 0px 34%;
+}
+h1, h3 {
+  text-align: center;
+  color: green;
+}

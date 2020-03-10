@@ -1,0 +1,15 @@
+table {
+  text-align: center;
+  margin: 0px 34%;
+  border: 7px solid green;
+  border-collapse: collapse;
+}
+td, tr , th {
+  border: 3px solid green;
+}
+tr:hover {
+  background-color: #F5F508;
+  th {
+    background-color: white;
+  }
+}
